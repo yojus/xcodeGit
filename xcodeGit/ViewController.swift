@@ -3,7 +3,7 @@
 //  xcodeGit
 //
 //  Created by 杉浦陽樹 on 2022/10/16.
-//  i have a cold
+//  i have a cold!
 
 import UIKit
 
